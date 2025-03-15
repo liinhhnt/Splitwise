@@ -22,8 +22,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/splitwise-contract.git
-   cd splitwise-contract
+   git clone https://github.com/liinhhnt/Splitwise.git
    ```
 
 2. Install dependencies:
